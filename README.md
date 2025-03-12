@@ -25,4 +25,4 @@
 - **Git** (optional, for cloning the repository)  
 
 ### 2️⃣ Clone the Repository  
-git clone https://github.com/YourGitHubUsername/selfbot-rpc.git cd selfbot-rpc
+git clone https://github.com/devrock07/RockV3-Selfbot.git cd selfbot-rpc
