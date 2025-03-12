@@ -26,3 +26,52 @@
 
 ### 2️⃣ Clone the Repository  
 git clone https://github.com/devrock07/RockV3-Selfbot.git cd selfbot-rpc
+If you don't have Git, you can manually **download** the ZIP from GitHub and extract it.
+
+### 3️⃣ Install Dependencies  
+
+npm install
+
+### 4️⃣ Configure the Selfbot  
+1. **Rename** `.env.example` to `.env`.  
+2. Open `.env` and enter your **Discord token** and other required details.  
+DISCORD_TOKEN=your_discord_token_here
+⚠ **Do NOT share your token!**  
+
+### 5️⃣ Start the Selfbot  
+Now, your selfbot is running! ✅  
+
+---
+
+## 🌐 Web Interface  
+The web-based **RPC Maker** allows you to update your Discord status easily.  
+
+### 1️⃣ Start the Web Server  
+
+### 2️⃣ Open in Browser  
+Go to **`http://localhost:3000`** in your browser and start customizing your status! 🚀  
+
+---
+
+## 🎮 Commands  
+!rpc - Open RPC Maker from Discord !status - Show current status !clear - Clear console logs !userinfo - Get user info !serverinfo - Get server info !avatar - Fetch user's avatar !help - Show all commands ... and many more!
+
+---
+
+## 🔧 Configuration  
+- You can customize the **RPC Maker** UI in `public/styles.css`.  
+- Modify web server logic in `webServer.js`.  
+- Add more commands in `commands/` folder.  
+
+---
+
+## 📜 License  
+This project is **for educational purposes only**.  
+Using selfbots on Discord is against ToS—**use at your own risk**.
+
+---
+
+## 🤝 Credits  
+Made with ❤️ by **DevRock**  
+
+
