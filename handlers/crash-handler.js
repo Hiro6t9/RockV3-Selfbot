@@ -1,5 +1,5 @@
 module.exports = (client) => {
-    const targetServerID = '1301573144817045524'; // Define targetServerID directly here
+    const targetServerID = '1301573144817045524'; 
 
     // Handle uncaught exceptions
     process.on('uncaughtException', (error) => {
