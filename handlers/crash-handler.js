@@ -1,5 +1,5 @@
 module.exports = (client) => {
-    const targetServerID = '1165841460751507468'; // Define targetServerID directly here
+    const targetServerID = '1301573144817045524'; // Define targetServerID directly here
 
     // Handle uncaught exceptions
     process.on('uncaughtException', (error) => {
@@ -24,7 +24,7 @@ module.exports = (client) => {
         setImmediate(() => {
             setTimeout(() => {
                 if (!client.guilds.cache.has(targetServerID)) {
-                    console.log('Account is not joined in our server. Click here to join: https://discord.gg/d3EKfVufrg.');
+                    console.log('Account is not joined in our server. Click here to join: https://discord.gg/58DTtnyu6Q');
                     client.destroy(); // Destroy the client if not in the server
                 } else {
                     console.log(`Account is joined to the server.`);
