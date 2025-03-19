@@ -1,8 +1,8 @@
 module.exports = {
     token: "", // Add your bot token here
     prefix: ".", // Set your command prefix
-    allowedUserIDs: [], // Replace with actual user IDs
-    allowedNoPrefixUserIDs: [], // Users allowed to use commands without a prefix
+    allowedUserIDs: "", // Replace with actual user IDs
+    allowedNoPrefixUserIDs: "", // Users allowed to use commands without a prefix
     applicationId: '', // Add your target bot ID here(required for status to work.)
 
     // Enable or disable the web server
