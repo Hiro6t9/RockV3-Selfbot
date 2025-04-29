@@ -1,8 +1,8 @@
 module.exports = {
     token: "", // Add your bot token here
-    prefix: ".", // Set your command prefix
-    allowedUserIDs: "", // Replace with actual user IDs
-    allowedNoPrefixUserIDs: "", // Users allowed to use commands without a prefix
+    prefix: "+", // Set your command prefix
+    allowedUserIDs: "1198187445859139595", // Replace with actual user IDs
+    allowedNoPrefixUserIDs: "1198187445859139595", // Users allowed to use commands without a prefix
     applicationId: '', // Add your target bot ID here(required for status to work.)
 
     // Enable or disable the web server
@@ -17,7 +17,7 @@ module.exports = {
     // Social Media Links
     socialLinks: {
         telegram: "", // Add your Telegram link here
-        discord: "", // Add your Discord username here
+        discord: "hiro.hexra", // Add your Discord username here
         instagram: "" // Add your Instagram link here
     }
 };
