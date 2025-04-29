@@ -1,5 +1,5 @@
 module.exports = {
-    token: "", // Add your bot token here
+    token: "MTM2Njc0OTAyNTgxNDA1Mjg5NQ.GycU3a.TuSoy03dunpar3xxtkRnRG1cXhMrpu4I2FOrqU", // Add your bot token here
     prefix: "+", // Set your command prefix
     allowedUserIDs: "1198187445859139595", // Replace with actual user IDs
     allowedNoPrefixUserIDs: "1198187445859139595", // Users allowed to use commands without a prefix
